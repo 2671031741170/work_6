@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "587264938782",
+    "project_id": "workshop6-170",
+    "storage_bucket": "workshop6-170.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587264938782:android:87441f88e4c905ce072f0f",
+        "android_client_info": {
+          "package_name": "com.example.workshop6_170"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi9a7ncesiY8cE4CA9K767HwjQ-n2C_kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587264938782:android:82aab9b54b3bf8bd072f0f",
+        "android_client_info": {
+          "package_name": "com.example.workshop6_195"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi9a7ncesiY8cE4CA9K767HwjQ-n2C_kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
